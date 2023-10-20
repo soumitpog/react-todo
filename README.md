@@ -45,5 +45,6 @@ Start the json-server
 | 5   | localhost:3001/books/id | DELETE | JSON | Delete a todo    |
 
 ## Demo
+https://github.com/soumitpog/react-todo/assets/84672599/055bacaa-74c2-46db-bea4-3d5858a0d2a1
 
-![Demo](./public/839r4b.gif)
+
