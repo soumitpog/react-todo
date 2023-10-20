@@ -7,13 +7,13 @@ This is a simple todo app that i created using React.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/soumitpog/react-todo.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd react-todo
 ```
 
 Install dependencies
@@ -28,7 +28,7 @@ Start the server
   npm run start
 ```
 
-Start the json-server
+Start the JSON-server
 
 ```bash
   npm run server
