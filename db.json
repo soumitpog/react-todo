@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "content": "Learn C++",
+      "id": 2
+    },
+    {
+      "content": "Learn Javascript",
+      "id": 3
+    }
+  ]
+}
